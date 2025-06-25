@@ -28,7 +28,7 @@ Each heading has its own folder. Inside each folder, you'll find all the steps a
    - `kubectl`
    - `containerd` (as the container runtime)
 
-4. **Optional:** Install `helm` on the master node (if using Helm charts).
+4. **Optional:** Install `helm` on master node (if using Helm charts).
 
 ---
 
